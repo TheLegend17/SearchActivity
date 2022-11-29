@@ -1,0 +1,11 @@
+D:\IS\SearchActivity\SearchActivity\obj\Debug\SearchActivity.csproj.AssemblyReference.cache
+D:\IS\SearchActivity\SearchActivity\obj\Debug\SearchActivity.csproj.SuggestedBindingRedirects.cache
+D:\IS\SearchActivity\SearchActivity\obj\Debug\SearchActivity.Form1.resources
+D:\IS\SearchActivity\SearchActivity\obj\Debug\SearchActivity.Properties.Resources.resources
+D:\IS\SearchActivity\SearchActivity\obj\Debug\SearchActivity.csproj.GenerateResource.cache
+D:\IS\SearchActivity\SearchActivity\obj\Debug\SearchActivity.csproj.CoreCompileInputs.cache
+D:\IS\SearchActivity\SearchActivity\bin\Debug\SearchActivity.exe.config
+D:\IS\SearchActivity\SearchActivity\bin\Debug\SearchActivity.exe
+D:\IS\SearchActivity\SearchActivity\bin\Debug\SearchActivity.pdb
+D:\IS\SearchActivity\SearchActivity\obj\Debug\SearchActivity.exe
+D:\IS\SearchActivity\SearchActivity\obj\Debug\SearchActivity.pdb
